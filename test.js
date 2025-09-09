@@ -1,1 +1,1 @@
-console.log("Salut")
+console.log("Salut al 2 lea coleg a schimbat")
